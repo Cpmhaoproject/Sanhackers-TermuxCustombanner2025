@@ -8,4 +8,3 @@
 # git clone https://github.com/Cpmhaoproject/Sanhackers-TermuxCustombanner2025.git
 # cd Sanhackers-TermuxCustombanner2025
 # python3 TERMUX启动画面自定_en.py
-# bash install.sh
